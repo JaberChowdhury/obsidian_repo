@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Bash Scripting Walk through !!!.md",
+                "file": "Learning/Bash/02. Bash Commands Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bash Scripting Walk through !!!"
-            }
-          }
-        ]
-      },
-      {
-        "id": "912200f758e86c7c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ae3798ed65839f85",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "02. Bash Commands Overview"
             }
           }
         ]
@@ -213,9 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca4d22cddeaa08f0",
+  "active": "16be1086953ec4f4",
   "lastOpenFiles": [
-    "Learning/Bash Scripting Walk through !!!.md",
+    "Learning/Bash/03. Using the ls Command.md",
+    "Learning/Bash/02. Bash Commands Overview.md",
+    "Learning/Bash/01. Walk through !!!.md",
+    "Learning/Bash",
     "README.md",
     "Navigation.base",
     "og/code/study/lab report.md",
@@ -241,7 +228,6 @@
     "og/kde icon task",
     "og/code",
     "og/Linux",
-    "og",
     "Welcome.md",
     "jaber/og/code/study/lab report.md",
     "jaber/og/code/bash script/Walk through.md",
@@ -250,8 +236,6 @@
     "jaber/og/sorting_algorithm/Radix Sort.md",
     "jaber/og/sorting_algorithm/Merge Sort.md",
     "jaber/og/sorting_algorithm/Bucket Sorting.md",
-    "jaber/og/sorting_algorithm/Buble Sorting.md",
-    "jaber/og/others/graph?.canvas",
-    "jaber/og/others/Untitled.md"
+    "jaber/og/others/graph?.canvas"
   ]
 }
