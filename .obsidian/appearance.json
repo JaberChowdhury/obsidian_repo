@@ -1,8 +1,3 @@
 {
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "Arial",
-  "textFontFamily": "Times New Roman",
-  "baseFontSizeAction": true,
-  "theme": "obsidian",
-  "accentColor": "#355b6e"
+  "cssTheme": "Minimal"
 }

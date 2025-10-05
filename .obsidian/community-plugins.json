@@ -2,5 +2,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-style-settings",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-linter",
+  "code-styler"
 ]
