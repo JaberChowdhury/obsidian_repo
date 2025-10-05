@@ -1,0 +1,1 @@
+### Bash is used to write scripts and run commands on Linux systems.It helps automate tasks, manage system operations, and boost productivity.
