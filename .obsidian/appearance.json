@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Ukiyo",
   "interfaceFontFamily": "Arial",
   "textFontFamily": "Times New Roman",
   "baseFontSizeAction": true,
-  "theme": "system",
+  "theme": "obsidian",
   "accentColor": "#355b6e"
 }

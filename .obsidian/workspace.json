@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/bash script/Hello world.md",
+                "file": "code/bash script/Walk through.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Hello world"
+              "title": "Walk through"
             }
           }
         ]
@@ -214,18 +214,18 @@
   },
   "active": "aee24052cfe6e165",
   "lastOpenFiles": [
+    "code/study/lab report.md",
+    "kde icon task/code v1.md",
+    "kde icon task/Daily task.md",
+    "code/bash script/Hello world.md",
     "tutorial/README.md",
     "tutorial",
     "code/bash script/Walk through.md",
     "README.md",
-    "code/bash script/Hello world.md",
-    "kde icon task/code v1.md",
-    "kde icon task/Daily task.md",
     "Navigation.base",
     "kde icon task",
     "Linux/Arch manuall.md",
     "2025-10-04.md",
-    "code/study/lab report.md",
     "sorting_algorithm/Radix Sort.md",
     "code/bash script",
     "code/study",
