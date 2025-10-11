@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "800bcdb7bb11d427",
+        "id": "239e803f97225cf3",
         "type": "tabs",
         "children": [
           {
-            "id": "dc28aea5af594969",
+            "id": "cdbca9ba1638e0d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/linear algebra/Matrix.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Matrix"
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2edbb6b13c15551",
@@ -104,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/linear algebra/Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Matrix"
+              "title": "Backlinks"
             }
           },
           {
@@ -173,12 +159,24 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "eb6aae4b63f41629",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,25 +194,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc28aea5af594969",
+  "active": "cdbca9ba1638e0d5",
   "lastOpenFiles": [
+    "cp/Daily note.md",
+    "a.txt",
+    "Untitled.canvas",
+    "Untitled.md",
+    "2025-10-11.md",
+    "Untitled.base",
+    "Navigation.base",
+    "Learning/Bash/01. Basic/03. Bash alias.md",
+    "README.md",
+    "cp/1.0 Basics Roadmap ✅.md",
     "study/linear algebra/Matrix.md",
     "study/linear algebra",
     "study",
-    "cp/1.0 Basics Roadmap ✅.md",
     "Learning/Bash/01. Basic/01. Walk through !!!.md",
     "cp/cp roadmap.md",
     "cp",
     "Learning/Untitled.md",
-    "Learning/Bash/01. Basic/03. Bash alias.md",
-    "Untitled.md",
     "Learning/Bash/01. Basic/02. Bash Commands Overview.md",
     "Learning/Bash/02. Text Processing",
     "Learning/Bash/01. Basic",
     "Learning/Bash/03. Using the ls Command.md",
     "Learning/Bash",
-    "README.md",
-    "Navigation.base",
     "og/code/study/lab report.md",
     "og/code/bash script/Walk through.md",
     "og/code/bash script/Hello world.md",
@@ -227,14 +230,9 @@
     "og/others/Untitled.md",
     "og/others/2025-09-29.md",
     "og/code/study",
-    "og/code/bash script",
     "og/kde icon task/code v1.md",
     "og/kde icon task/Daily task.md",
     "og/Linux/Fastfetch config.md",
-    "og/Linux/Arch manuall.md",
-    "og/tutorial",
-    "Welcome.md",
-    "jaber/og/code/study/lab report.md",
     "jaber/og/others/graph?.canvas"
   ]
 }

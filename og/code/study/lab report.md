@@ -14,10 +14,10 @@ A calculator program performs arithmetic and mathematical operations like additi
 ### Code :
 
 ```cpp
-#include <cmath>
-#include <iomanip>
-#include <iostream>
-#include <vector>
+[[include]] <cmath>
+[[include]] <iomanip>
+[[include]] <iostream>
+[[include]] <vector>
 using namespace std;
 
 class Menu {
@@ -201,8 +201,8 @@ The banking system simulates simple account operations like deposit, withdraw, a
 ### Code :
 
 ```cpp
-#include <iostream>
-#include <vector>
+[[include]] <iostream>
+[[include]] <vector>
 using namespace std;
 
 class User {
@@ -440,7 +440,7 @@ Single inheritance allows one class to inherit from another class. This helps re
 ### Code :
 
 ```cpp
-#include <iostream>
+[[include]] <iostream>
 using namespace std;
 
 class Item {
@@ -485,7 +485,7 @@ Multilevel inheritance means a chain of inheritance where a derived class acts a
 ### Code :
 
 ```cpp
-#include <iostream>
+[[include]] <iostream>
 using namespace std;
 
 // base class
@@ -532,7 +532,7 @@ Multiple inheritance lets a class inherit features from more than one base class
 ### Code :
 
 ```cpp
-#include <iostream>
+[[include]] <iostream>
 using namespace std;
 class Base_class_one {
   public:
@@ -584,7 +584,7 @@ Hierarchical inheritance occurs when multiple classes inherit from the same base
 ### Code :
 
 ```cpp
-#include <iostream>
+[[include]] <iostream>
 using namespace std;
 
 class Student {
@@ -647,7 +647,7 @@ Hybrid inheritance is a combination of two or more types of inheritance, such as
 ### Code :
 
 ```cpp
-#include <iostream>
+[[include]] <iostream>
 using namespace std;
 
 class Person {
